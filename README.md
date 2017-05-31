@@ -1,4 +1,4 @@
-#Function to count the occurrences of a word in a file
+# Function to count the occurrences of a word in a file
 
 1.  define a function that has 2 parameters: filepath and word
 2.  initialse counter to 0
